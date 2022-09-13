@@ -66,6 +66,10 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.amount {
+    text-align: center;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
